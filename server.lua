@@ -1,1 +1,0 @@
-print("nemerm3lm")
